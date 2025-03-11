@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "728856518147",
+    "project_id": "careqr-new",
+    "storage_bucket": "careqr-new.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728856518147:android:9d9c690f187e0f69dbb836",
+        "android_client_info": {
+          "package_name": "com.example.careqr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX12jCeFYoCyPcxfB8-0l0SW0oHMpq8_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728856518147:android:6292ff4fee6a6c9fdbb836",
+        "android_client_info": {
+          "package_name": "com.example.careqr_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX12jCeFYoCyPcxfB8-0l0SW0oHMpq8_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
